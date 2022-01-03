@@ -1,5 +1,4 @@
 # RotoMask
-Generate Silhouettes!!
 
 ## Image Samples
 
