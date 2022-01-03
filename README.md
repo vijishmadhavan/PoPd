@@ -1,6 +1,6 @@
 # RotoMask
 
-Silhouettes and clip-arts are very common requirements in freelancing websites. This project helps to create unique images in the most easiest way. 
+Silhouettes and clip-arts are very common requirements in freelancing websites. This project helps to create unique silhouettes in the most easiest way. 
 
 The highlighted edges in the images represents the action in a better way.
 
