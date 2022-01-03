@@ -2,9 +2,11 @@
 
 Silhouettes and clip-arts are very common requirements in freelancing websites. This project helps to create unique silhouettes in the most easiest way. 
 
-The highlighted edges in the images represents the action in a better way.
 
 ## Image Samples
+
+### The highlighted edges in the images represents the action in a better way.
+
 
 ![Martial](https://github.com/vijishmadhavan/RotoMask/blob/master/Images/download%20(6)-side.png)
 
