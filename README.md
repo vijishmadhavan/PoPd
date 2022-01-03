@@ -16,4 +16,3 @@ Silhouettes and clip-arts are very common requirements in freelancing websites. 
 
 ## Video Sample
 
-![dance](https://github.com/vijishmadhavan/RotoMask/blob/master/Images/ezgif.com-gif-maker.gif)
