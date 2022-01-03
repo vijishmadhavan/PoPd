@@ -5,7 +5,7 @@ Silhouettes and clip-arts are very common requirements in freelancing websites. 
 
 ## Image Samples
 
-#### The highlighted edges in the images represents the action in a better way.
+#### The highlighted edges makes the action of the subject look a lot better .
 
 
 ![Martial](https://github.com/vijishmadhavan/RotoMask/blob/master/Images/download%20(6)-side.png)
