@@ -1,6 +1,6 @@
 # RotoMask
 
-This project helps to create unique silhouettes in the most easiest way. 
+This project helps to create unique silhouettes/clip-art in the most easiest way. 
 
 ## Image Samples
 
