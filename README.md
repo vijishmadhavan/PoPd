@@ -1,6 +1,6 @@
 # RotoMask
 
-This project helps to create unique silhouettes/clip-art in the most easiest way. 
+This project helps to create unique silhouettes/clip-art in the most easiest way. Freelancing websites have lot of gigs related to clip-art and silhouettes, I hope this would help.
 
 ## Image Samples
 
