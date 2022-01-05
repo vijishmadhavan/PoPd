@@ -24,6 +24,6 @@ The model can be used to genereate elements required for creating logo.
 
 **Put yourself in your logo, I hope the model works :wink:**
 
-![Logo1](https://github.com/vijishmadhavan/RotoMask/blob/master/Images/1.png)
+![Logo1](https://github.com/vijishmadhavan/RotoMask/blob/master/Images/1.png =500x250)
 
-![Logo2](https://github.com/vijishmadhavan/RotoMask/blob/master/Images/2.png)
+![Logo2](https://github.com/vijishmadhavan/RotoMask/blob/master/Images/2.png =500x250)
