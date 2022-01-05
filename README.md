@@ -21,4 +21,5 @@ This project helps to create unique silhouettes/clip-art in the most easiest way
 ## Easy Logo Art
 
 The model can be used to genereate elements required for creating logo. 
+
 **Put yourself in your dance school logo, I hope the model works :wink:**
