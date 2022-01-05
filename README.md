@@ -16,6 +16,8 @@ This project helps to create unique silhouettes/clip-art in the most easiest way
 
 ## Video Sample
 
+**#Rotoscoping Animation**
+
 ![Dance](https://github.com/vijishmadhavan/RotoMask/blob/master/Images/ezgif.com-gif-maker%20(1).gif)
 
 ## Easy Logo Art
