@@ -23,3 +23,7 @@ This project helps to create unique silhouettes/clip-art in the most easiest way
 The model can be used to genereate elements required for creating logo. 
 
 **Put yourself in your logo, I hope the model works :wink:**
+
+![Logo1](https://github.com/vijishmadhavan/RotoMask/blob/master/Images/1.png)
+
+![Logo2](https://github.com/vijishmadhavan/RotoMask/blob/master/Images/2.png)
