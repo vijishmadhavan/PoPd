@@ -1,5 +1,5 @@
 # PoPd
 <p align="center">
-  <img width="250" height="250" src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/unnamed-tile.jpg">
+  <img width="500" height=500" src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/unnamed-tile.jpg">
 </p>
 
