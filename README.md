@@ -15,7 +15,17 @@ return SizedBox(
   child: AnimatedTextKit(
     animatedTexts: [
       ColorizeAnimatedText(
-        'PoPd',
+        'Larry Page',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+      ColorizeAnimatedText(
+        'Bill Gates',
+        textStyle: colorizeTextStyle,
+        colors: colorizeColors,
+      ),
+      ColorizeAnimatedText(
+        'Steve Jobs',
         textStyle: colorizeTextStyle,
         colors: colorizeColors,
       ),
