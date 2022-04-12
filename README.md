@@ -4,7 +4,7 @@
 
 
                                            
- # Turn photo into Pop Art.
+ # Turn photos into Pop Art.
 
 <p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/bbbbb.jpg?raw=true"/></p>
 
