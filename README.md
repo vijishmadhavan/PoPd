@@ -1,8 +1,2 @@
 
-
-
-
-<p align="center">
-  <img width="500" height=500" src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/bbb.jpg">
-</p>
-
+![bruce](https://github.com/vijishmadhavan/PoPd/blob/master/Images/bbbbb.jpg)
