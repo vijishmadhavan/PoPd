@@ -6,14 +6,13 @@
                                            
  # Turn photos into Pop Art.
 
-<p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/bbbbb.jpg?raw=true"/></p>
+<p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/image-side.jpg"/></p>
 
 
 
 <p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/mich.png?raw=true"/></p>
 
 
-<p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/image-side.jpg"/></p>
 
 
 <p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/denver-shaolin-kung-fu-shifu-shi-heng-chao-hero-side.jpg"/></p>
