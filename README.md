@@ -1,6 +1,7 @@
+<p align="center">
+  <img width="200" height="200" src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Colourful%20Pop%20Art%20Jazz%20Music%20Album%20Cover.png">
+</p>
 
-
-<p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Colourful%20Pop%20Art%20Jazz%20Music%20Album%20Cover.png"/></p>
 
                                            
  # Turn photos into Pop Art.
