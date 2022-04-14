@@ -33,6 +33,7 @@
 
 ## Limitations
 
-- Just 15 paired images as dataset
+- Just 15 paired images as dataset.
+- Works only with images similar to the above given examples.
 
 
