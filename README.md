@@ -1,4 +1,4 @@
-# PoPd 
+# PoPd v1
 
 <p align="center">
   <img width="466" height="310" src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Colourful%20Pop%20Art%20Jazz%20Music%20Album%20Cover.png">
