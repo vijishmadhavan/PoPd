@@ -25,3 +25,7 @@
 
  
 
+## Implementation Details 
+
+- Model architecture: [fastai v1 u-net](https://fastai1.fast.ai/vision.models.unet.html)
+- Dataset [dataset](https://www.dropbox.com/s/gw1xgfevz5quv7u/Dataset.zip?dl=1)
