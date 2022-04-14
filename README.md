@@ -4,7 +4,7 @@
   <img width="466" height="310" src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Colourful%20Pop%20Art%20Jazz%20Music%20Album%20Cover.png">
 </p>
 
-#### :point_right: [Hugging Face Spaces](https://huggingface.co/spaces/Vijish/Crop-CLIP)  
+#### :point_right: [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/Vijish/Crop-CLIP)  
 
                                            
  # Turn photos into Pop Art.
