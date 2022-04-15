@@ -6,7 +6,7 @@
 
 #### :point_right: [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/Vijish/PoPd-PoPArT)  
 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/App/blob/master/PoPd.ipynb)
+#### :point_right: [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/App/blob/master/PoPd.ipynb)
 
                                            
  # Turn photos into Pop Art.
