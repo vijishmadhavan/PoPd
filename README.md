@@ -27,7 +27,7 @@
  <p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/vovinam-vietnam-martial-art-1000x600-side.jpg"/></p>
 
  
-# Video.
+# Video
 
 ![gif](https://github.com/vijishmadhavan/PoPd/blob/master/Images/ezgif.com-gif-maker%20(1).gif)
 
