@@ -1,10 +1,12 @@
-# PoPd v1
+# PoPd
 
 <p align="center">
   <img width="466" height="310" src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Colourful%20Pop%20Art%20Jazz%20Music%20Album%20Cover.png">
 </p>
 
 #### :point_right: [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/Vijish/PoPd-PoPArT)  
+
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/App/blob/master/PoPd.ipynb)
 
                                            
  # Turn photos into Pop Art.
