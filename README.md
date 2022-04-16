@@ -1,7 +1,7 @@
 # PoPd
 
 <p align="center">
-  <img width="466" height="310" src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Colourful%20Pop%20Art%20Jazz%20Music%20Album%20Cover.png">
+  <img width="400" height="400"src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Purple%20and%20Black%20Neon%20Sci%20Fi%20Youtube%20Channel%20Logo%20(1).png">
 </p>
 
 #### :point_right: [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/Vijish/PoPd-PoPArT)  
