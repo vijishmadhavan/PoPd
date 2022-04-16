@@ -4,6 +4,8 @@
   <img width="400" height="400"src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Purple%20and%20Black%20Neon%20Sci%20Fi%20Youtube%20Channel%20Logo%20(1).png">
 </p>
 
+A fun project to create pop art, with little effort you can even use it on logo's.
+
 #### :point_right: [![Generic badge](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/Vijish/PoPd-PoPArT)  
 
 #### :point_right: [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/App/blob/master/PoPd.ipynb)
