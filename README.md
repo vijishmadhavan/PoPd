@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    // Logo silhouette using PoPd!!
+    ## Logo silhouette using PoPd!!
 </p>
 
 
