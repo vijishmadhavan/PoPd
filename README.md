@@ -23,9 +23,6 @@
  # 90's video-game style.
 
  <p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/download%20(3).png"/></p>
-
- <p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/vovinam-vietnam-martial-art-1000x600-side.jpg"/></p>
-
  
 # Video
 
