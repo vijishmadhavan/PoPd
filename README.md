@@ -1,8 +1,6 @@
 # PoPd
 
-<p align="center">
-  <img width="400" height="400"src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Purple%20and%20Black%20Neon%20Sci%20Fi%20Youtube%20Channel%20Logo%20(1).png">
-</p>
+<p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Purple_and_Black_Neon_Sci_Fi_Youtube_Channel_Logo_1_400x400.png"/></p>
 
 <p align="center">
     ## LOGO silhouette using PoPd!!
