@@ -25,9 +25,10 @@
 
 <p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/denver-shaolin-kung-fu-shifu-shi-heng-chao-hero-side.jpg"/></p>
 
+# Logo Silhouette
 
 
- # 90's video-game style.
+# 90's video-game style.
 
  <p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/download%20(3).png"/></p>
  
