@@ -4,6 +4,8 @@
   <img width="400" height="400"src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Purple%20and%20Black%20Neon%20Sci%20Fi%20Youtube%20Channel%20Logo%20(1).png">
 </p>
 
+<p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/Purple%20and%20Black%20Neon%20Sci%20Fi%20Youtube%20Channel%20Logo%20(1).png"/></p>
+
 <p align="center">
     ## LOGO silhouette using PoPd!!
 </p>
@@ -26,6 +28,8 @@
 <p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/denver-shaolin-kung-fu-shifu-shi-heng-chao-hero-side.jpg"/></p>
 
 # Logo Silhouette
+
+<p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/download__1_-removebg-preview-side.png"/></p>
 
 
 # 90's video-game style.
