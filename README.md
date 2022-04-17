@@ -32,7 +32,7 @@
 
  <p align="center"><img src="https://github.com/vijishmadhavan/PoPd/blob/master/Images/download%20(3).png"/></p>
  
-# Video
+# Rotoscoping
 
 ![gif](https://github.com/vijishmadhavan/PoPd/blob/master/Images/ezgif.com-gif-maker%20(1).gif)
 
